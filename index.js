@@ -12,7 +12,7 @@ const app = express();
 
 app.set('port', process.env.PORT || 3000)
 
-app.use(helmet()); 
+app.use(helmet());
 app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
@@ -26,8 +26,8 @@ app.use((req, res, next) => {
 
 app.use(errorHandler);
 
-
-
 http.createServer(app).listen(app.get('port'), () => {
   console.log('Express server listening on port ' + app.get('port'))
 })
+
+module.exports = app;
