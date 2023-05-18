@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "inhonia-dashboard",
+  "private_key_id": "8383a66ec9a94384cd8f70e89bf2bf11458ef4de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDkNuArjRNJDadF\nNmHeM3YWHMFd2LArZPvWm4l1eXGBjWZb+awooxg4/hxIsyoqlbKO1jdSIUTxxGJy\nwY1TT8T+yJJZ+y1PhNpYReA2Lm8WOhY3TQEvQsa9+UbFDqIOooOJm0j5SqdIv1W5\nhyVHN/nM4XyS8Z2y43J/yNzKXwkqS6mgDwFImXuUQeZcjHRTVyepGrEHJUW495mX\nC8n2cE+h5DsFeaYk+XIUg9valZyB2EHm2L6gU/jR1K4mvtjQEx8PdH2O1Ax1kUVR\nzQ161uU1HKhYjcHnLlYshIfV/VabxOB2QGVI1dF9ZFchxw1F1KHPF8jIbRNYcw8c\ncOK8oEbdAgMBAAECggEAWuJdwQpUQVYeJMqlDBwbbW/zNAANHKMBRjS39+Au62SX\n/I4AWUimZ2APfIZZhw8JxqeZ7WvRbKUEfeYF9cVBUyQmYI5Ou6nRWLEvOvSgCc6F\nNW3FyIAD7PkejXCn6kMfNkhwtdLcrvR/27xuBKBOq6Cq/0wYvPqmiSxBfZh+amhp\n3TyD63BERRtzKD8pmvIQDeKlVqHmXvQUlGFohewXMa18gSIZkri30WLWz5xZBl+2\nDNaJzoB1ZJLDf/S5SqiBJojv+nC3gcOy9d+e30VZtuIkaJ7LaQ1r18tXCAImBr2j\nqKiCMnB/YbOrExvq7HQMFWl0mL7XXzUEfyt7KrKB8wKBgQD5mpfCAm+lpVNzByz9\nBdSFa6bR32zcqo8tumWw7uqSn+TWUEgJOF9thYP/Gey6hIvd+RTt0TbbaEMOepuC\nfdVXRu7gkoYoeOptOAG9M7bOhiMuaYC847cWJlFfgnhwIM4KRULMDf8BXCiNnCRC\nE48xUamOTQpB3eLvdH/obNT6DwKBgQDqD/eU4lbcLsJFGUC1KOXh2rZT6glZ3nvE\nvPjVm0sDUrnGYr8XJ/NiPBmzgMAGXhAgf7sg8y/tyUymGEujbEzHl3VXMYxlgUbk\n4DJ7rVf6brC0DBob37/YPfXEYL/LunkvM59iICNduZ1lGoQd8XEEy/F6OyopnRXi\n/OYchv2MUwKBgFGXbko2H6bnLysnylX/hOQEN6jdPym2+0y4ZKt8veMmL1i7L4EM\nE22qumY2ZELoNwxdcrD2tdbs8xaVj6YNWiLIhieU3hP2yrLfHvppIDXMdU2joTid\nu2ibJ/hvns0QfCmxUE+Bt70LEhqQUu3ilOlLR4DDwDmdvaQG0hT5FnmTAoGAGCAL\nMdJeh5VeOscOj12mzC/B6UZPLm8rLK0ZrNKz2aTWNyeIcLeSc4akU4cqw71ARklE\nHXJTd1vvRZNtgGuyQkRPOOyHfxLjHsYpDexhDBQKrJQuwL7ARGamhVY/jp0qzn2w\nqOmNG6T9HyWrhnaTYp4uxp2AjAd/8QSGJ1yWl7cCgYATSEKRalyxLu3dPDI61qLR\n1Wb3a9yAgoPJm8YvfoMOAHafy4fKq5FlkkF/s8IaJEjR5M7MHQ5n/r4/6JMWY1fm\nIPnJoz8x/Xh7bqD2TSkQcdlmoyKBHroZJywrqOyqAStr7J17eY4i/AZzPLhKckEc\ndCcSOgrKi/AkWjJJ8Etz7g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7w0at@inhonia-dashboard.iam.gserviceaccount.com",
+  "client_id": "115907219337347370205",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7w0at%40inhonia-dashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
