@@ -5,7 +5,7 @@ const logger = require('morgan');
 const helmet = require('helmet');
 const http = require('http')
 const indexRouter = require('./routes/index');
-const cors = require("cors")
+const cors = require('cors')
 const errorHandler = require('./middleware/errorHandler');
 
 const app = express();
