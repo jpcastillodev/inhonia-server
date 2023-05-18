@@ -3,12 +3,14 @@ const createError = require('http-errors');
 const cookieParser = require('cookie-parser');
 const logger = require('morgan');
 const helmet = require('helmet');
-
+const http = require('http')
 const indexRouter = require('./routes/index');
 
 const errorHandler = require('./middleware/errorHandler');
 
 const app = express();
+
+app.set('port', process.env.PORT || 3000)
 
 app.use(helmet()); 
 app.use(logger('dev'));
@@ -24,4 +26,8 @@ app.use((req, res, next) => {
 
 app.use(errorHandler);
 
-module.exports = app;
+
+
+http.createServer(app).listen(app.get('port'), () => {
+  console.log('Express server listening on port ' + app.get('port'))
+})
